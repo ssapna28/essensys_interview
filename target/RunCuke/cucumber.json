@@ -1,0 +1,409 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 16364932500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "verify user should find product successfully",
+        "description": "",
+        "id": "find-products;verify-user-should-find-product-successfully;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 2680760800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 878972200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on home page",
+            "match": {
+              "location": "Topbarsteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 299345900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I Select one \"Landlords\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Landlords",
+                  "offset": 14
+                }
+              ],
+              "location": "Topbarsteps.iSelectOne(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8436206600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "verify user should find product successfully",
+        "description": "",
+        "id": "find-products;verify-user-should-find-product-successfully;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 1772233500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 44600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on home page",
+            "match": {
+              "location": "Topbarsteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 737579900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I Select one \"essensys Platform\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "essensys Platform",
+                  "offset": 14
+                }
+              ],
+              "location": "Topbarsteps.iSelectOne(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8028414500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "verify user should find product successfully",
+        "description": "",
+        "id": "find-products;verify-user-should-find-product-successfully;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 1545300600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 55300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on home page",
+            "match": {
+              "location": "Topbarsteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 364422600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I Select one \"Success stories\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Success stories",
+                  "offset": 14
+                }
+              ],
+              "location": "Topbarsteps.iSelectOne(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9798928000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "verify user should find product successfully",
+        "description": "",
+        "id": "find-products;verify-user-should-find-product-successfully;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 1205556000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 36300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on home page",
+            "match": {
+              "location": "Topbarsteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 338652200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I Select one \"Investors\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Investors",
+                  "offset": 14
+                }
+              ],
+              "location": "Topbarsteps.iSelectOne(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7868378300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "verify user should we able to click on submenu",
+        "description": "",
+        "id": "find-products;verify-user-should-we-able-to-click-on-submenu",
+        "after": [
+          {
+            "result": {
+              "duration": 1333827100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 42300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I am on home page",
+            "match": {
+              "location": "Topbarsteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 973398800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I mousehover on resources able to click on \"Thought leadership\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Thought leadership",
+                  "offset": 44
+                }
+              ],
+              "location": "Topbarsteps.iMousehoverOnResourcesAbleToClickOn(String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7492740600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "verify user should we able to click on flex operators",
+        "description": "",
+        "id": "find-products;verify-user-should-we-able-to-click-on-flex-operators",
+        "after": [
+          {
+            "result": {
+              "duration": 1980869100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 62200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I am on home page",
+            "match": {
+              "location": "Topbarsteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2757416400,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click on flex oprators",
+            "match": {
+              "location": "Topbarsteps.iClickOnFlexOprators()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 20072749200,
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//h1[contains(text(),\u0027Flexible space made simple\u0027)]\"}\n  (Session info: chrome\u003d106.0.5249.119)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027DESKTOP-HLN3KFS\u0027, ip: \u0027192.168.0.23\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4ae4aa1e21c43944de3b7ca672c1954f, findElement {using\u003dxpath, value\u003d//h1[contains(text(),\u0027Flexible space made simple\u0027)]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\\Users\\sapna\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55240}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55240/devtoo..., se:cdpVersion: 106.0.5249.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4ae4aa1e21c43944de3b7ca672c1954f\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)\r\n\tat com.essensys.pages.ResultPage.verifyTextSuccessfully(ResultPage.java:19)\r\n\tat com.essensys.steps.Topbarsteps.iVerifyTheNavigateTo(Topbarsteps.java:29)\r\n\tat ✽.Then I verify the navigate to \"Flexible space made simple\"(src/test/java/resources/featurefile/Topbar.feature:22)\r\n",
+              "status": "failed"
+            },
+            "line": 22,
+            "name": "I verify the navigate to \"Flexible space made simple\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Flexible space made simple",
+                  "offset": 26
+                }
+              ],
+              "location": "Topbarsteps.iVerifyTheNavigateTo(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Find Products",
+    "description": "",
+    "id": "find-products",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/Topbar.feature"
+  }
+]
